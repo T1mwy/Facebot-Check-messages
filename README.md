@@ -1,3 +1,6 @@
+## Status
+Test project i don't know it work?
+
 ## What is this
 This is a bot to detect inappropriate messages in Facebook groups. and will keep deleting those messages But what I intend is to keep removing the gambling websites that are spreading in Thailand
 
